@@ -2,8 +2,9 @@ pkg update pkg upgrade
 pkg install git
 pkg install python
 pip install colorama
-git clone 
+git clone https://github.com/faannzz/UNBANNED.git
 clear
-python 
+python UNBANNED.py
 
-
+RUN!!!
+python UNBANNED.py
